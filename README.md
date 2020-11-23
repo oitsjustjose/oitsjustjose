@@ -56,6 +56,11 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](https://github.com/oitsjustjose/Geolosys-Config-Generator/pull/1) in [oitsjustjose/Geolosys-Config-Generator](https://github.com/oitsjustjose/Geolosys-Config-Generator)
+2. ❌ Closed PR [#1](https://github.com/oitsjustjose/oitsjustjo.se/pull/1) in [oitsjustjose/oitsjustjo.se](https://github.com/oitsjustjose/oitsjustjo.se)
+3. 🗣 Commented on [#1](https://github.com/oitsjustjose/oitsjustjo.se/issues/1) in [oitsjustjose/oitsjustjo.se](https://github.com/oitsjustjose/oitsjustjo.se)
+4. ❗️ Closed issue [#75](https://github.com/oitsjustjose/V-Tweaks/issues/75) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+5. 🎉 Merged PR [#4](https://github.com/oitsjustjose/Pivotal-Desktop/pull/4) in [oitsjustjose/Pivotal-Desktop](https://github.com/oitsjustjose/Pivotal-Desktop)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

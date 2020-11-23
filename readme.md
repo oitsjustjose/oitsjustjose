@@ -56,17 +56,12 @@
 </span>
 
 <br />
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  
+### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-</details>
+### GitHub Stats
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="center" alt="oitsjustjose's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=oitsjustjose&show_icons=true&hide_border=true" />
-
-</details>
+<img align="center" alt="oitsjustjose's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=oitsjustjose&show_icons=true&hide_border=true" />

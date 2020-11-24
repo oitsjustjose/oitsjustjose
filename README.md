@@ -19,39 +19,40 @@
 
 <center>
 <div>
-<img align="center" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="center" alt="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="center" alt="JavaScript" width="32px" src="https://simpleicons.org/icons/javascript.svg" />
+<img align="center" alt="TypeScript" width="32px" src="https://simpleicons.org/icons/typescript.svg" />
 •
-<img align="center" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="center" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="center" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="center" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="center" alt="React" width="32px" src="https://simpleicons.org/icons/react.svg" />
+<img align="center" alt="HTML5" width="32px" src="https://simpleicons.org/icons/html5.svg" />
+<img align="center" alt="CSS3" width="32px" src="https://simpleicons.org/icons/css3.svg" />
+<img align="center" alt="Sass" width="32px" src="https://simpleicons.org/icons/sass.svg" />
 •
-<img align="center" alt="Gulp" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" />
-<img align="center" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="center" alt="Gulp" width="32px" src="https://simpleicons.org/icons/gulp.svg" />
+<img align="center" alt="Node.js" width="32px" src="https://simpleicons.org/icons/node-dot-js.svg" />
 •
-<img align="center" alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="center" alt="MongoDB" width="32px" height="32px" src="https://oitsjustjo.se/i/cKuqQTfsc" />
+<img align="center" alt="PostgreSQL" width="32px" src="https://simpleicons.org/icons/postgresql.svg" />
+<img align="center" alt="MongoDB" width="32px" height="32px" src="https://simpleicons.org/icons/mongodb.svg" />
 •
-<img align="center" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="center" alt="TensorFlow" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
-<img align="center" alt="Pandas" width="32px" height="32px" src="https://oitsjustjo.se/i/BCml9uwwE" />
+<img align="center" alt="Python" width="32px" src="https://simpleicons.org/icons/python.svg" />
+<img align="center" alt="TensorFlow" width="32px" src="https://simpleicons.org/icons/tensorflow.svg" />
+<img align="center" alt="Pandas" width="32px" height="32px" src="https://simpleicons.org/icons/pandas.svg" />
 •
-<img align="center" alt="Docker" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="center" alt="Kubernetes" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
-<img align="center" alt="Kafka" width="32px" height="32px" src="https://oitsjustjo.se/i/P-TLzCtg0" />
+<img align="center" alt="Docker" width="32px" src="https://simpleicons.org/icons/docker.svg" />
+<img align="center" alt="Kubernetes" width="32px" src="https://simpleicons.org/icons/kubernetes.svg" />
+<img align="center" alt="Kafka" width="32px" height="32px" src="https://simpleicons.org/icons/apachekafka.svg" />
 •
-<img align="center" alt="Java" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="center" alt="Gradle" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gradle/gradle.png" />
+<img align="center" alt="Java" width="32px" src="https://simpleicons.org/icons/java.svg" />
+<img align="center" alt="Gradle" width="32px" src="https://simpleicons.org/icons/gradle.svg" />
+<img align="center" alt="Apache Ant" width="32px" src="https://simpleicons.org/icons/apacheant.svg" />
 •
-<img align="center" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="center" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="center" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="center" alt="Visual Studio Code" width="32px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
+<img align="center" alt="Git" width="32px" src="https://simpleicons.org/icons/git.svg" />
+<img align="center" alt="GitHub" width="32px" src="https://simpleicons.org/icons/github.svg" />
 </div>
 </center>
 
 <br />
-  
+
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->

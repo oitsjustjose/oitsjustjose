@@ -65,4 +65,4 @@
 
 ### GitHub Stats
 
-<img align="center" alt="oitsjustjose's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=oitsjustjose&show_icons=true&hide_border=true" />
+<img align="center" alt="oitsjustjose's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=oitsjustjose&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />

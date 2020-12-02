@@ -2,7 +2,7 @@
 
 <br />
 
-[![Website](https://img.shields.io/website?label=oitsjustjose.com&style=for-the-badge&url=https%3A%2F%2Foitsjustjose.com)](https://oitsjustjose.com)
+[![Website](https://img.shields.io/badge/oitsjustjose.com-green?style=for-the-badge)](https://oitsjustjose.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/oitsjustjose?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Foitsjustjose&screen_name=oitsjustjose)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://oitsjustjo.se/u/linkedin)
 

@@ -57,9 +57,9 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7](https://github.com/eutropius225/FramedCompactDrawers/issues/7) in [eutropius225/FramedCompactDrawers](https://github.com/eutropius225/FramedCompactDrawers)
-2. ❗️ Opened issue [#7](https://github.com/eutropius225/FramedCompactDrawers/issues/7) in [eutropius225/FramedCompactDrawers](https://github.com/eutropius225/FramedCompactDrawers)
-3. ❗️ Reopened issue [#76](https://github.com/oitsjustjose/V-Tweaks/issues/76) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-4. 🗣 Commented on [#76](https://github.com/oitsjustjose/V-Tweaks/issues/76) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+2. 🗣 Commented on [#7](https://github.com/eutropius225/FramedCompactDrawers/issues/7) in [eutropius225/FramedCompactDrawers](https://github.com/eutropius225/FramedCompactDrawers)
+3. ❗️ Opened issue [#7](https://github.com/eutropius225/FramedCompactDrawers/issues/7) in [eutropius225/FramedCompactDrawers](https://github.com/eutropius225/FramedCompactDrawers)
+4. ❗️ Reopened issue [#76](https://github.com/oitsjustjose/V-Tweaks/issues/76) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
 5. 🗣 Commented on [#76](https://github.com/oitsjustjose/V-Tweaks/issues/76) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
 <!--END_SECTION:activity-->
 

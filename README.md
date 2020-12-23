@@ -56,11 +56,11 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#76](https://github.com/oitsjustjose/V-Tweaks/issues/76) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-2. 🗣 Commented on [#76](https://github.com/oitsjustjose/V-Tweaks/issues/76) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-3. 🗣 Commented on [#76](https://github.com/oitsjustjose/V-Tweaks/issues/76) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-4. ❗️ Opened issue [#333](https://github.com/Vazkii/Patchouli/issues/333) in [Vazkii/Patchouli](https://github.com/Vazkii/Patchouli)
-5. ❌ Closed PR [#1](https://github.com/oitsjustjose/Geolosys-Config-Generator/pull/1) in [oitsjustjose/Geolosys-Config-Generator](https://github.com/oitsjustjose/Geolosys-Config-Generator)
+1. 🗣 Commented on [#7](https://github.com/eutropius225/FramedCompactDrawers/issues/7) in [eutropius225/FramedCompactDrawers](https://github.com/eutropius225/FramedCompactDrawers)
+2. ❗️ Opened issue [#7](https://github.com/eutropius225/FramedCompactDrawers/issues/7) in [eutropius225/FramedCompactDrawers](https://github.com/eutropius225/FramedCompactDrawers)
+3. ❗️ Reopened issue [#76](https://github.com/oitsjustjose/V-Tweaks/issues/76) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+4. 🗣 Commented on [#76](https://github.com/oitsjustjose/V-Tweaks/issues/76) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+5. 🗣 Commented on [#76](https://github.com/oitsjustjose/V-Tweaks/issues/76) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

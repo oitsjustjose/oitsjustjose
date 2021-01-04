@@ -56,10 +56,10 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/oitsjustjose/TiCon-Addons/issues/17) in [oitsjustjose/TiCon-Addons](https://github.com/oitsjustjose/TiCon-Addons)
-2. ❗️ Closed issue [#76](https://github.com/oitsjustjose/V-Tweaks/issues/76) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-3. ❗️ Closed issue [#74](https://github.com/oitsjustjose/V-Tweaks/issues/74) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-4. 🗣 Commented on [#7](https://github.com/eutropius225/FramedCompactDrawers/issues/7) in [eutropius225/FramedCompactDrawers](https://github.com/eutropius225/FramedCompactDrawers)
+1. 🗣 Commented on [#251](https://github.com/oitsjustjose/Geolosys/issues/251) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+2. 🗣 Commented on [#17](https://github.com/oitsjustjose/TiCon-Addons/issues/17) in [oitsjustjose/TiCon-Addons](https://github.com/oitsjustjose/TiCon-Addons)
+3. ❗️ Closed issue [#76](https://github.com/oitsjustjose/V-Tweaks/issues/76) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+4. ❗️ Closed issue [#74](https://github.com/oitsjustjose/V-Tweaks/issues/74) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
 5. 🗣 Commented on [#7](https://github.com/eutropius225/FramedCompactDrawers/issues/7) in [eutropius225/FramedCompactDrawers](https://github.com/eutropius225/FramedCompactDrawers)
 <!--END_SECTION:activity-->
 

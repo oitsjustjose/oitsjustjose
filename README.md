@@ -56,11 +56,11 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#83](https://github.com/oitsjustjose/V-Tweaks/issues/83) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-2. 🗣 Commented on [#83](https://github.com/oitsjustjose/V-Tweaks/issues/83) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-3. ❗️ Opened issue [#263](https://github.com/oitsjustjose/Geolosys/issues/263) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
-4. 🗣 Commented on [#33](https://github.com/oitsjustjose/Natural-Progression/issues/33) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
-5. ❗️ Closed issue [#262](https://github.com/oitsjustjose/Geolosys/issues/262) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+1. ❗️ Closed issue [#77](https://github.com/oitsjustjose/V-Tweaks/issues/77) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+2. 🗣 Commented on [#77](https://github.com/oitsjustjose/V-Tweaks/issues/77) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+3. 🗣 Commented on [#83](https://github.com/oitsjustjose/V-Tweaks/issues/83) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+4. 🗣 Commented on [#83](https://github.com/oitsjustjose/V-Tweaks/issues/83) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+5. 🗣 Commented on [#83](https://github.com/oitsjustjose/V-Tweaks/issues/83) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

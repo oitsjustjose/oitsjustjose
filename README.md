@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#88](https://github.com/oitsjustjose/V-Tweaks/issues/88) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-2. 🗣 Commented on [#87](https://github.com/oitsjustjose/V-Tweaks/issues/87) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-3. ❗️ Closed issue [#38](https://github.com/oitsjustjose/Natural-Progression/issues/38) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
-4. 🗣 Commented on [#38](https://github.com/oitsjustjose/Natural-Progression/issues/38) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
-5. ❗️ Closed issue [#36](https://github.com/oitsjustjose/Natural-Progression/issues/36) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
+1. ❗️ Closed issue [#88](https://github.com/oitsjustjose/V-Tweaks/issues/88) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+2. 🗣 Commented on [#88](https://github.com/oitsjustjose/V-Tweaks/issues/88) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+3. ❗️ Closed issue [#85](https://github.com/oitsjustjose/V-Tweaks/issues/85) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+4. 🗣 Commented on [#85](https://github.com/oitsjustjose/V-Tweaks/issues/85) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+5. ❗️ Closed issue [#86](https://github.com/oitsjustjose/V-Tweaks/issues/86) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

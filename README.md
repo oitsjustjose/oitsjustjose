@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#89](https://github.com/oitsjustjose/V-Tweaks/issues/89) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-2. 💪 Opened PR [#887](https://github.com/gorilla-devs/GDLauncher/pull/887) in [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher)
-3. ❗️ Closed issue [#88](https://github.com/oitsjustjose/V-Tweaks/issues/88) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-4. 🗣 Commented on [#88](https://github.com/oitsjustjose/V-Tweaks/issues/88) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-5. ❗️ Closed issue [#85](https://github.com/oitsjustjose/V-Tweaks/issues/85) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+1. 🗣 Commented on [#273](https://github.com/oitsjustjose/Geolosys/issues/273) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+2. ❗️ Closed issue [#273](https://github.com/oitsjustjose/Geolosys/issues/273) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+3. 🗣 Commented on [#89](https://github.com/oitsjustjose/V-Tweaks/issues/89) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+4. 💪 Opened PR [#887](https://github.com/gorilla-devs/GDLauncher/pull/887) in [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher)
+5. ❗️ Closed issue [#88](https://github.com/oitsjustjose/V-Tweaks/issues/88) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

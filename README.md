@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#37](https://github.com/oitsjustjose/Natural-Progression/issues/37) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
-2. 🗣 Commented on [#37](https://github.com/oitsjustjose/Natural-Progression/issues/37) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
-3. ❗️ Closed issue [#39](https://github.com/oitsjustjose/Natural-Progression/issues/39) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
-4. 🗣 Commented on [#39](https://github.com/oitsjustjose/Natural-Progression/issues/39) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
-5. 🗣 Commented on [#273](https://github.com/oitsjustjose/Geolosys/issues/273) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+1. ❗️ Opened issue [#275](https://github.com/oitsjustjose/Geolosys/issues/275) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+2. ❗️ Closed issue [#271](https://github.com/oitsjustjose/Geolosys/issues/271) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+3. 🗣 Commented on [#271](https://github.com/oitsjustjose/Geolosys/issues/271) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+4. ❗️ Closed issue [#269](https://github.com/oitsjustjose/Geolosys/issues/269) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+5. 🎉 Merged PR [#274](https://github.com/oitsjustjose/Geolosys/pull/274) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

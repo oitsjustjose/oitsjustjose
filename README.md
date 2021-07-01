@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#12](https://github.com/oitsjustjose/Flask-OpenCV-Streamer/pull/12) in [oitsjustjose/Flask-OpenCV-Streamer](https://github.com/oitsjustjose/Flask-OpenCV-Streamer)
-2. 🎉 Merged PR [#10](https://github.com/oitsjustjose/Flask-OpenCV-Streamer/pull/10) in [oitsjustjose/Flask-OpenCV-Streamer](https://github.com/oitsjustjose/Flask-OpenCV-Streamer)
-3. 🗣 Commented on [#887](https://github.com/gorilla-devs/GDLauncher/issues/887) in [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher)
-4. ❗️ Opened issue [#275](https://github.com/oitsjustjose/Geolosys/issues/275) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
-5. ❗️ Closed issue [#271](https://github.com/oitsjustjose/Geolosys/issues/271) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+1. 🎉 Merged PR [#277](https://github.com/oitsjustjose/Geolosys/pull/277) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+2. 🗣 Commented on [#277](https://github.com/oitsjustjose/Geolosys/issues/277) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+3. 🎉 Merged PR [#12](https://github.com/oitsjustjose/Flask-OpenCV-Streamer/pull/12) in [oitsjustjose/Flask-OpenCV-Streamer](https://github.com/oitsjustjose/Flask-OpenCV-Streamer)
+4. 🎉 Merged PR [#10](https://github.com/oitsjustjose/Flask-OpenCV-Streamer/pull/10) in [oitsjustjose/Flask-OpenCV-Streamer](https://github.com/oitsjustjose/Flask-OpenCV-Streamer)
+5. 🗣 Commented on [#887](https://github.com/gorilla-devs/GDLauncher/issues/887) in [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

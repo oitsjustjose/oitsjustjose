@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#46](https://github.com/oitsjustjose/Natural-Progression/issues/46) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
-2. 🗣 Commented on [#887](https://github.com/gorilla-devs/GDLauncher/issues/887) in [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher)
-3. 🎉 Merged PR [#277](https://github.com/oitsjustjose/Geolosys/pull/277) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
-4. 🗣 Commented on [#277](https://github.com/oitsjustjose/Geolosys/issues/277) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
-5. 🎉 Merged PR [#12](https://github.com/oitsjustjose/Flask-OpenCV-Streamer/pull/12) in [oitsjustjose/Flask-OpenCV-Streamer](https://github.com/oitsjustjose/Flask-OpenCV-Streamer)
+1. 🗣 Commented on [#279](https://github.com/oitsjustjose/Geolosys/issues/279) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+2. ❗️ Closed issue [#279](https://github.com/oitsjustjose/Geolosys/issues/279) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+3. 🗣 Commented on [#46](https://github.com/oitsjustjose/Natural-Progression/issues/46) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
+4. 🗣 Commented on [#887](https://github.com/gorilla-devs/GDLauncher/issues/887) in [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher)
+5. 🎉 Merged PR [#277](https://github.com/oitsjustjose/Geolosys/pull/277) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

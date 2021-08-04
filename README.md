@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#1159](https://github.com/InnovativeOnlineIndustries/Industrial-Foregoing/issues/1159) in [InnovativeOnlineIndustries/Industrial-Foregoing](https://github.com/InnovativeOnlineIndustries/Industrial-Foregoing)
-2. 🗣 Commented on [#279](https://github.com/oitsjustjose/Geolosys/issues/279) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
-3. ❗️ Closed issue [#279](https://github.com/oitsjustjose/Geolosys/issues/279) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
-4. 🗣 Commented on [#46](https://github.com/oitsjustjose/Natural-Progression/issues/46) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
-5. 🗣 Commented on [#887](https://github.com/gorilla-devs/GDLauncher/issues/887) in [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher)
+1. ❗️ Opened issue [#220](https://github.com/Ellpeck/NaturesAura/issues/220) in [Ellpeck/NaturesAura](https://github.com/Ellpeck/NaturesAura)
+2. ❗️ Opened issue [#1159](https://github.com/InnovativeOnlineIndustries/Industrial-Foregoing/issues/1159) in [InnovativeOnlineIndustries/Industrial-Foregoing](https://github.com/InnovativeOnlineIndustries/Industrial-Foregoing)
+3. 🗣 Commented on [#279](https://github.com/oitsjustjose/Geolosys/issues/279) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+4. ❗️ Closed issue [#279](https://github.com/oitsjustjose/Geolosys/issues/279) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+5. 🗣 Commented on [#46](https://github.com/oitsjustjose/Natural-Progression/issues/46) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

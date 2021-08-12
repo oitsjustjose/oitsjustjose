@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#94](https://github.com/oitsjustjose/V-Tweaks/issues/94) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-2. 🗣 Commented on [#93](https://github.com/oitsjustjose/V-Tweaks/issues/93) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-3. ❗️ Opened issue [#220](https://github.com/Ellpeck/NaturesAura/issues/220) in [Ellpeck/NaturesAura](https://github.com/Ellpeck/NaturesAura)
-4. ❗️ Opened issue [#1159](https://github.com/InnovativeOnlineIndustries/Industrial-Foregoing/issues/1159) in [InnovativeOnlineIndustries/Industrial-Foregoing](https://github.com/InnovativeOnlineIndustries/Industrial-Foregoing)
-5. 🗣 Commented on [#279](https://github.com/oitsjustjose/Geolosys/issues/279) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+1. 🗣 Commented on [#49](https://github.com/oitsjustjose/Natural-Progression/issues/49) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
+2. ❗️ Closed issue [#10](https://github.com/oitsjustjose/Natural-Progression/issues/10) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
+3. 🗣 Commented on [#10](https://github.com/oitsjustjose/Natural-Progression/issues/10) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
+4. 🗣 Commented on [#44](https://github.com/oitsjustjose/Natural-Progression/issues/44) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
+5. ❗️ Opened issue [#94](https://github.com/oitsjustjose/V-Tweaks/issues/94) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

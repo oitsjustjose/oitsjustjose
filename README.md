@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#43](https://github.com/oitsjustjose/Natural-Progression/issues/43) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
-2. 🗣 Commented on [#40](https://github.com/oitsjustjose/Natural-Progression/issues/40) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
-3. ❗️ Closed issue [#40](https://github.com/oitsjustjose/Natural-Progression/issues/40) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
-4. 🗣 Commented on [#40](https://github.com/oitsjustjose/Natural-Progression/issues/40) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
-5. 🗣 Commented on [#42](https://github.com/oitsjustjose/Natural-Progression/issues/42) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
+1. ❗️ Closed issue [#47](https://github.com/oitsjustjose/Natural-Progression/issues/47) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
+2. 🗣 Commented on [#47](https://github.com/oitsjustjose/Natural-Progression/issues/47) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
+3. ❗️ Closed issue [#45](https://github.com/oitsjustjose/Natural-Progression/issues/45) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
+4. 🗣 Commented on [#45](https://github.com/oitsjustjose/Natural-Progression/issues/45) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
+5. ❗️ Closed issue [#43](https://github.com/oitsjustjose/Natural-Progression/issues/43) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

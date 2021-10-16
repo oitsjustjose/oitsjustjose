@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#174](https://github.com/Beethoven92/BetterEndForge/issues/174) in [Beethoven92/BetterEndForge](https://github.com/Beethoven92/BetterEndForge)
-2. 🎉 Merged PR [#96](https://github.com/oitsjustjose/V-Tweaks/pull/96) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-3. 🎉 Merged PR [#95](https://github.com/oitsjustjose/V-Tweaks/pull/95) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-4. ❗️ Closed issue [#282](https://github.com/oitsjustjose/Geolosys/issues/282) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
-5. 🗣 Commented on [#282](https://github.com/oitsjustjose/Geolosys/issues/282) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+1. ❗️ Opened issue [#54](https://github.com/oitsjustjose/Natural-Progression/issues/54) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
+2. ❗️ Opened issue [#174](https://github.com/Beethoven92/BetterEndForge/issues/174) in [Beethoven92/BetterEndForge](https://github.com/Beethoven92/BetterEndForge)
+3. 🎉 Merged PR [#96](https://github.com/oitsjustjose/V-Tweaks/pull/96) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+4. 🎉 Merged PR [#95](https://github.com/oitsjustjose/V-Tweaks/pull/95) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+5. ❗️ Closed issue [#282](https://github.com/oitsjustjose/Geolosys/issues/282) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

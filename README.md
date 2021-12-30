@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#370](https://github.com/vectorwing/FarmersDelight/issues/370) in [vectorwing/FarmersDelight](https://github.com/vectorwing/FarmersDelight)
-2. ❗️ Closed issue [#289](https://github.com/oitsjustjose/Geolosys/issues/289) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
-3. 🗣 Commented on [#289](https://github.com/oitsjustjose/Geolosys/issues/289) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
-4. ❗️ Opened issue [#232](https://github.com/Ellpeck/NaturesAura/issues/232) in [Ellpeck/NaturesAura](https://github.com/Ellpeck/NaturesAura)
-5. ❗️ Closed issue [#288](https://github.com/oitsjustjose/Geolosys/issues/288) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+1. ❗️ Opened issue [#82](https://github.com/Jozufozu/Flywheel/issues/82) in [Jozufozu/Flywheel](https://github.com/Jozufozu/Flywheel)
+2. ❗️ Opened issue [#370](https://github.com/vectorwing/FarmersDelight/issues/370) in [vectorwing/FarmersDelight](https://github.com/vectorwing/FarmersDelight)
+3. ❗️ Closed issue [#289](https://github.com/oitsjustjose/Geolosys/issues/289) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+4. 🗣 Commented on [#289](https://github.com/oitsjustjose/Geolosys/issues/289) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+5. ❗️ Opened issue [#232](https://github.com/Ellpeck/NaturesAura/issues/232) in [Ellpeck/NaturesAura](https://github.com/Ellpeck/NaturesAura)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

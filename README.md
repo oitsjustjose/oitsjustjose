@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#82](https://github.com/Jozufozu/Flywheel/issues/82) in [Jozufozu/Flywheel](https://github.com/Jozufozu/Flywheel)
-2. ❗️ Closed issue [#82](https://github.com/Jozufozu/Flywheel/issues/82) in [Jozufozu/Flywheel](https://github.com/Jozufozu/Flywheel)
-3. 🗣 Commented on [#82](https://github.com/Jozufozu/Flywheel/issues/82) in [Jozufozu/Flywheel](https://github.com/Jozufozu/Flywheel)
-4. ❗️ Opened issue [#82](https://github.com/Jozufozu/Flywheel/issues/82) in [Jozufozu/Flywheel](https://github.com/Jozufozu/Flywheel)
-5. ❗️ Opened issue [#370](https://github.com/vectorwing/FarmersDelight/issues/370) in [vectorwing/FarmersDelight](https://github.com/vectorwing/FarmersDelight)
+1. ❗️ Opened issue [#2638](https://github.com/mezz/JustEnoughItems/issues/2638) in [mezz/JustEnoughItems](https://github.com/mezz/JustEnoughItems)
+2. 🗣 Commented on [#82](https://github.com/Jozufozu/Flywheel/issues/82) in [Jozufozu/Flywheel](https://github.com/Jozufozu/Flywheel)
+3. ❗️ Closed issue [#82](https://github.com/Jozufozu/Flywheel/issues/82) in [Jozufozu/Flywheel](https://github.com/Jozufozu/Flywheel)
+4. 🗣 Commented on [#82](https://github.com/Jozufozu/Flywheel/issues/82) in [Jozufozu/Flywheel](https://github.com/Jozufozu/Flywheel)
+5. ❗️ Opened issue [#82](https://github.com/Jozufozu/Flywheel/issues/82) in [Jozufozu/Flywheel](https://github.com/Jozufozu/Flywheel)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

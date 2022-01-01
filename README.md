@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#2638](https://github.com/mezz/JustEnoughItems/issues/2638) in [mezz/JustEnoughItems](https://github.com/mezz/JustEnoughItems)
-2. 🗣 Commented on [#82](https://github.com/Jozufozu/Flywheel/issues/82) in [Jozufozu/Flywheel](https://github.com/Jozufozu/Flywheel)
-3. ❗️ Closed issue [#82](https://github.com/Jozufozu/Flywheel/issues/82) in [Jozufozu/Flywheel](https://github.com/Jozufozu/Flywheel)
+1. ❗️ Closed issue [#2638](https://github.com/mezz/JustEnoughItems/issues/2638) in [mezz/JustEnoughItems](https://github.com/mezz/JustEnoughItems)
+2. 🗣 Commented on [#2638](https://github.com/mezz/JustEnoughItems/issues/2638) in [mezz/JustEnoughItems](https://github.com/mezz/JustEnoughItems)
+3. ❗️ Opened issue [#2638](https://github.com/mezz/JustEnoughItems/issues/2638) in [mezz/JustEnoughItems](https://github.com/mezz/JustEnoughItems)
 4. 🗣 Commented on [#82](https://github.com/Jozufozu/Flywheel/issues/82) in [Jozufozu/Flywheel](https://github.com/Jozufozu/Flywheel)
-5. ❗️ Opened issue [#82](https://github.com/Jozufozu/Flywheel/issues/82) in [Jozufozu/Flywheel](https://github.com/Jozufozu/Flywheel)
+5. ❗️ Closed issue [#82](https://github.com/Jozufozu/Flywheel/issues/82) in [Jozufozu/Flywheel](https://github.com/Jozufozu/Flywheel)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#290](https://github.com/oitsjustjose/Geolosys/issues/290) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
-2. ❗️ Closed issue [#2638](https://github.com/mezz/JustEnoughItems/issues/2638) in [mezz/JustEnoughItems](https://github.com/mezz/JustEnoughItems)
-3. 🗣 Commented on [#2638](https://github.com/mezz/JustEnoughItems/issues/2638) in [mezz/JustEnoughItems](https://github.com/mezz/JustEnoughItems)
-4. ❗️ Opened issue [#2638](https://github.com/mezz/JustEnoughItems/issues/2638) in [mezz/JustEnoughItems](https://github.com/mezz/JustEnoughItems)
-5. 🗣 Commented on [#82](https://github.com/Jozufozu/Flywheel/issues/82) in [Jozufozu/Flywheel](https://github.com/Jozufozu/Flywheel)
+1. ❗️ Closed issue [#291](https://github.com/oitsjustjose/Geolosys/issues/291) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+2. 🗣 Commented on [#291](https://github.com/oitsjustjose/Geolosys/issues/291) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+3. 🗣 Commented on [#290](https://github.com/oitsjustjose/Geolosys/issues/290) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+4. ❗️ Closed issue [#2638](https://github.com/mezz/JustEnoughItems/issues/2638) in [mezz/JustEnoughItems](https://github.com/mezz/JustEnoughItems)
+5. 🗣 Commented on [#2638](https://github.com/mezz/JustEnoughItems/issues/2638) in [mezz/JustEnoughItems](https://github.com/mezz/JustEnoughItems)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

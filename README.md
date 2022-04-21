@@ -48,10 +48,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#304](https://github.com/oitsjustjose/Geolosys/issues/304) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
-2. 🎉 Merged PR [#304](https://github.com/oitsjustjose/Geolosys/pull/304) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
-3. 🗣 Commented on [#4379](https://github.com/EnigmaticaModpacks/Enigmatica6/issues/4379) in [EnigmaticaModpacks/Enigmatica6](https://github.com/EnigmaticaModpacks/Enigmatica6)
-4. 🗣 Commented on [#4379](https://github.com/EnigmaticaModpacks/Enigmatica6/issues/4379) in [EnigmaticaModpacks/Enigmatica6](https://github.com/EnigmaticaModpacks/Enigmatica6)
+1. ❗️ Closed issue [#303](https://github.com/oitsjustjose/Geolosys/issues/303) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+2. 🗣 Commented on [#303](https://github.com/oitsjustjose/Geolosys/issues/303) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+3. 🗣 Commented on [#304](https://github.com/oitsjustjose/Geolosys/issues/304) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+4. 🎉 Merged PR [#304](https://github.com/oitsjustjose/Geolosys/pull/304) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
 5. 🗣 Commented on [#4379](https://github.com/EnigmaticaModpacks/Enigmatica6/issues/4379) in [EnigmaticaModpacks/Enigmatica6](https://github.com/EnigmaticaModpacks/Enigmatica6)
 <!--END_SECTION:activity-->
 

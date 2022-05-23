@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1342](https://github.com/gorilla-devs/GDLauncher/issues/1342) in [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher)
+1. ❗️ Opened issue [#66](https://github.com/oitsjustjose/Natural-Progression/issues/66) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
 2. 🗣 Commented on [#1342](https://github.com/gorilla-devs/GDLauncher/issues/1342) in [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher)
-3. ❗️ Opened issue [#1342](https://github.com/gorilla-devs/GDLauncher/issues/1342) in [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher)
-4. 🗣 Commented on [#1336](https://github.com/gorilla-devs/GDLauncher/issues/1336) in [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher)
-5. 🗣 Commented on [#305](https://github.com/oitsjustjose/Geolosys/issues/305) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+3. 🗣 Commented on [#1342](https://github.com/gorilla-devs/GDLauncher/issues/1342) in [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher)
+4. ❗️ Opened issue [#1342](https://github.com/gorilla-devs/GDLauncher/issues/1342) in [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher)
+5. 🗣 Commented on [#1336](https://github.com/gorilla-devs/GDLauncher/issues/1336) in [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

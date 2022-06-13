@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1342](https://github.com/gorilla-devs/GDLauncher/issues/1342) in [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher)
-2. 🗣 Commented on [#1356](https://github.com/gorilla-devs/GDLauncher/issues/1356) in [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher)
-3. 💪 Opened PR [#1356](https://github.com/gorilla-devs/GDLauncher/pull/1356) in [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher)
-4. ❗️ Opened issue [#312](https://github.com/oitsjustjose/Geolosys/issues/312) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
-5. ❗️ Closed issue [#310](https://github.com/oitsjustjose/Geolosys/issues/310) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+1. 🗣 Commented on [#1356](https://github.com/gorilla-devs/GDLauncher/issues/1356) in [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher)
+2. 🗣 Commented on [#1342](https://github.com/gorilla-devs/GDLauncher/issues/1342) in [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher)
+3. 🗣 Commented on [#1356](https://github.com/gorilla-devs/GDLauncher/issues/1356) in [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher)
+4. 💪 Opened PR [#1356](https://github.com/gorilla-devs/GDLauncher/pull/1356) in [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher)
+5. ❗️ Opened issue [#312](https://github.com/oitsjustjose/Geolosys/issues/312) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

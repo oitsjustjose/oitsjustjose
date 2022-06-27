@@ -48,9 +48,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#69](https://github.com/oitsjustjose/Natural-Progression/issues/69) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
-2. 🎉 Merged PR [#69](https://github.com/oitsjustjose/Natural-Progression/pull/69) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
-3. 🗣 Commented on [#1356](https://github.com/gorilla-devs/GDLauncher/issues/1356) in [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher)
+1. ❗️ Opened issue [#962](https://github.com/shedaniel/RoughlyEnoughItems/issues/962) in [shedaniel/RoughlyEnoughItems](https://github.com/shedaniel/RoughlyEnoughItems)
+2. 🗣 Commented on [#69](https://github.com/oitsjustjose/Natural-Progression/issues/69) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
+3. 🎉 Merged PR [#69](https://github.com/oitsjustjose/Natural-Progression/pull/69) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
 4. 🗣 Commented on [#1356](https://github.com/gorilla-devs/GDLauncher/issues/1356) in [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher)
 5. 🗣 Commented on [#1356](https://github.com/gorilla-devs/GDLauncher/issues/1356) in [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher)
 <!--END_SECTION:activity-->

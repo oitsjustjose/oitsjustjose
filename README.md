@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#98](https://github.com/oitsjustjose/V-Tweaks/issues/98) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-2. 🗣 Commented on [#11](https://github.com/oitsjustjose/Harmonious-Engineering/issues/11) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
-3. ❗️ Closed issue [#11](https://github.com/oitsjustjose/Harmonious-Engineering/issues/11) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
-4. 🗣 Commented on [#11](https://github.com/oitsjustjose/Harmonious-Engineering/issues/11) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
-5. 🗣 Commented on [#984](https://github.com/shedaniel/RoughlyEnoughItems/issues/984) in [shedaniel/RoughlyEnoughItems](https://github.com/shedaniel/RoughlyEnoughItems)
+1. ❗️ Opened issue [#74](https://github.com/Buuz135/FunctionalStorage/issues/74) in [Buuz135/FunctionalStorage](https://github.com/Buuz135/FunctionalStorage)
+2. ❗️ Opened issue [#98](https://github.com/oitsjustjose/V-Tweaks/issues/98) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+3. 🗣 Commented on [#11](https://github.com/oitsjustjose/Harmonious-Engineering/issues/11) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
+4. ❗️ Closed issue [#11](https://github.com/oitsjustjose/Harmonious-Engineering/issues/11) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
+5. 🗣 Commented on [#11](https://github.com/oitsjustjose/Harmonious-Engineering/issues/11) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

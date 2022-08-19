@@ -48,10 +48,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#11](https://github.com/oitsjustjose/Harmonious-Engineering/issues/11) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
-2. ❗️ Closed issue [#11](https://github.com/oitsjustjose/Harmonious-Engineering/issues/11) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
-3. 🗣 Commented on [#11](https://github.com/oitsjustjose/Harmonious-Engineering/issues/11) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
-4. 🗣 Commented on [#984](https://github.com/shedaniel/RoughlyEnoughItems/issues/984) in [shedaniel/RoughlyEnoughItems](https://github.com/shedaniel/RoughlyEnoughItems)
+1. ❗️ Opened issue [#98](https://github.com/oitsjustjose/V-Tweaks/issues/98) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+2. 🗣 Commented on [#11](https://github.com/oitsjustjose/Harmonious-Engineering/issues/11) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
+3. ❗️ Closed issue [#11](https://github.com/oitsjustjose/Harmonious-Engineering/issues/11) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
+4. 🗣 Commented on [#11](https://github.com/oitsjustjose/Harmonious-Engineering/issues/11) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
 5. 🗣 Commented on [#984](https://github.com/shedaniel/RoughlyEnoughItems/issues/984) in [shedaniel/RoughlyEnoughItems](https://github.com/shedaniel/RoughlyEnoughItems)
 <!--END_SECTION:activity-->
 

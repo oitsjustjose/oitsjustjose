@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#92](https://github.com/oitsjustjose/V-Tweaks/issues/92) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-2. 🗣 Commented on [#92](https://github.com/oitsjustjose/V-Tweaks/issues/92) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-3. ❗️ Closed issue [#91](https://github.com/oitsjustjose/V-Tweaks/issues/91) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-4. 🗣 Commented on [#91](https://github.com/oitsjustjose/V-Tweaks/issues/91) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-5. 🗣 Commented on [#90](https://github.com/oitsjustjose/V-Tweaks/issues/90) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+1. ❗️ Closed issue [#98](https://github.com/oitsjustjose/V-Tweaks/issues/98) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+2. ❗️ Closed issue [#92](https://github.com/oitsjustjose/V-Tweaks/issues/92) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+3. 🗣 Commented on [#92](https://github.com/oitsjustjose/V-Tweaks/issues/92) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+4. ❗️ Closed issue [#91](https://github.com/oitsjustjose/V-Tweaks/issues/91) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+5. 🗣 Commented on [#91](https://github.com/oitsjustjose/V-Tweaks/issues/91) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

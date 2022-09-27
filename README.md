@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#90](https://github.com/Buuz135/FunctionalStorage/issues/90) in [Buuz135/FunctionalStorage](https://github.com/Buuz135/FunctionalStorage)
-2. 🗣 Commented on [#99](https://github.com/oitsjustjose/V-Tweaks/issues/99) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-3. 🗣 Commented on [#99](https://github.com/oitsjustjose/V-Tweaks/issues/99) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-4. 🎉 Merged PR [#316](https://github.com/oitsjustjose/Geolosys/pull/316) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
-5. 🗣 Commented on [#316](https://github.com/oitsjustjose/Geolosys/issues/316) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+1. ❗️ Closed issue [#13](https://github.com/oitsjustjose/Harmonious-Engineering/issues/13) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
+2. 🗣 Commented on [#13](https://github.com/oitsjustjose/Harmonious-Engineering/issues/13) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
+3. ❗️ Closed issue [#10](https://github.com/oitsjustjose/Harmonious-Engineering/issues/10) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
+4. 🗣 Commented on [#10](https://github.com/oitsjustjose/Harmonious-Engineering/issues/10) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
+5. ❗️ Opened issue [#90](https://github.com/Buuz135/FunctionalStorage/issues/90) in [Buuz135/FunctionalStorage](https://github.com/Buuz135/FunctionalStorage)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

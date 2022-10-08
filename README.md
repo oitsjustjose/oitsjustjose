@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#13](https://github.com/oitsjustjose/Harmonious-Engineering/issues/13) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
-2. 🗣 Commented on [#13](https://github.com/oitsjustjose/Harmonious-Engineering/issues/13) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
-3. ❗️ Closed issue [#10](https://github.com/oitsjustjose/Harmonious-Engineering/issues/10) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
-4. 🗣 Commented on [#10](https://github.com/oitsjustjose/Harmonious-Engineering/issues/10) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
-5. ❗️ Opened issue [#90](https://github.com/Buuz135/FunctionalStorage/issues/90) in [Buuz135/FunctionalStorage](https://github.com/Buuz135/FunctionalStorage)
+1. 💪 Opened PR [#52](https://github.com/Traverse-Joe/Baubley-Heart-Canisters/pull/52) in [Traverse-Joe/Baubley-Heart-Canisters](https://github.com/Traverse-Joe/Baubley-Heart-Canisters)
+2. ❗️ Closed issue [#13](https://github.com/oitsjustjose/Harmonious-Engineering/issues/13) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
+3. 🗣 Commented on [#13](https://github.com/oitsjustjose/Harmonious-Engineering/issues/13) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
+4. ❗️ Closed issue [#10](https://github.com/oitsjustjose/Harmonious-Engineering/issues/10) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
+5. 🗣 Commented on [#10](https://github.com/oitsjustjose/Harmonious-Engineering/issues/10) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/oitsjustjose/Tidbyt-Status-App/pull/2) in [oitsjustjose/Tidbyt-Status-App](https://github.com/oitsjustjose/Tidbyt-Status-App)
-2. 🎉 Merged PR [#1](https://github.com/oitsjustjose/Tidbyt-Status-App/pull/1) in [oitsjustjose/Tidbyt-Status-App](https://github.com/oitsjustjose/Tidbyt-Status-App)
-3. 🎉 Merged PR [#101](https://github.com/oitsjustjose/V-Tweaks/pull/101) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-4. 💪 Opened PR [#52](https://github.com/Traverse-Joe/Baubley-Heart-Canisters/pull/52) in [Traverse-Joe/Baubley-Heart-Canisters](https://github.com/Traverse-Joe/Baubley-Heart-Canisters)
-5. ❗️ Closed issue [#13](https://github.com/oitsjustjose/Harmonious-Engineering/issues/13) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
+1. 💪 Opened PR [#103](https://github.com/oitsjustjose/V-Tweaks/pull/103) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+2. 🎉 Merged PR [#2](https://github.com/oitsjustjose/Tidbyt-Status-App/pull/2) in [oitsjustjose/Tidbyt-Status-App](https://github.com/oitsjustjose/Tidbyt-Status-App)
+3. 🎉 Merged PR [#1](https://github.com/oitsjustjose/Tidbyt-Status-App/pull/1) in [oitsjustjose/Tidbyt-Status-App](https://github.com/oitsjustjose/Tidbyt-Status-App)
+4. 🎉 Merged PR [#101](https://github.com/oitsjustjose/V-Tweaks/pull/101) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+5. 💪 Opened PR [#52](https://github.com/Traverse-Joe/Baubley-Heart-Canisters/pull/52) in [Traverse-Joe/Baubley-Heart-Canisters](https://github.com/Traverse-Joe/Baubley-Heart-Canisters)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

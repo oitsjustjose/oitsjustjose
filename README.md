@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#103](https://github.com/oitsjustjose/V-Tweaks/pull/103) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-2. 🎉 Merged PR [#2](https://github.com/oitsjustjose/Tidbyt-Status-App/pull/2) in [oitsjustjose/Tidbyt-Status-App](https://github.com/oitsjustjose/Tidbyt-Status-App)
-3. 🎉 Merged PR [#1](https://github.com/oitsjustjose/Tidbyt-Status-App/pull/1) in [oitsjustjose/Tidbyt-Status-App](https://github.com/oitsjustjose/Tidbyt-Status-App)
-4. 🎉 Merged PR [#101](https://github.com/oitsjustjose/V-Tweaks/pull/101) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-5. 💪 Opened PR [#52](https://github.com/Traverse-Joe/Baubley-Heart-Canisters/pull/52) in [Traverse-Joe/Baubley-Heart-Canisters](https://github.com/Traverse-Joe/Baubley-Heart-Canisters)
+1. 🗣 Commented on [#102](https://github.com/oitsjustjose/V-Tweaks/issues/102) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+2. ❗️ Closed issue [#97](https://github.com/oitsjustjose/V-Tweaks/issues/97) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+3. 🗣 Commented on [#97](https://github.com/oitsjustjose/V-Tweaks/issues/97) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+4. ❗️ Closed issue [#93](https://github.com/oitsjustjose/V-Tweaks/issues/93) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+5. 🗣 Commented on [#93](https://github.com/oitsjustjose/V-Tweaks/issues/93) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

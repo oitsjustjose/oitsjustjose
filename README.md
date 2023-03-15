@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#15](https://github.com/oitsjustjose/Harmonious-Engineering/issues/15) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
-2. ❗️ Closed issue [#15](https://github.com/oitsjustjose/Harmonious-Engineering/issues/15) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
-3. ❗️ Closed issue [#17](https://github.com/oitsjustjose/Harmonious-Engineering/issues/17) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
-4. 🗣 Commented on [#17](https://github.com/oitsjustjose/Harmonious-Engineering/issues/17) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
-5. ❗️ Closed issue [#14](https://github.com/oitsjustjose/Harmonious-Engineering/issues/14) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
+1. 🗣 Commented on [#320](https://github.com/oitsjustjose/Geolosys/issues/320) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+2. 🎉 Merged PR [#320](https://github.com/oitsjustjose/Geolosys/pull/320) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+3. 🗣 Commented on [#15](https://github.com/oitsjustjose/Harmonious-Engineering/issues/15) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
+4. ❗️ Closed issue [#15](https://github.com/oitsjustjose/Harmonious-Engineering/issues/15) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
+5. ❗️ Closed issue [#17](https://github.com/oitsjustjose/Harmonious-Engineering/issues/17) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

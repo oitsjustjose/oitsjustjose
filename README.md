@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#320](https://github.com/oitsjustjose/Geolosys/issues/320) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
-2. 🎉 Merged PR [#320](https://github.com/oitsjustjose/Geolosys/pull/320) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
-3. 🗣 Commented on [#15](https://github.com/oitsjustjose/Harmonious-Engineering/issues/15) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
-4. ❗️ Closed issue [#15](https://github.com/oitsjustjose/Harmonious-Engineering/issues/15) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
-5. ❗️ Closed issue [#17](https://github.com/oitsjustjose/Harmonious-Engineering/issues/17) in [oitsjustjose/Harmonious-Engineering](https://github.com/oitsjustjose/Harmonious-Engineering)
+1. 🎉 Merged PR [#26](https://github.com/oitsjustjose/dv2ls/pull/26) in [oitsjustjose/dv2ls](https://github.com/oitsjustjose/dv2ls)
+2. 🎉 Merged PR [#23](https://github.com/oitsjustjose/dv2ls/pull/23) in [oitsjustjose/dv2ls](https://github.com/oitsjustjose/dv2ls)
+3. 🎉 Merged PR [#20](https://github.com/oitsjustjose/dv2ls/pull/20) in [oitsjustjose/dv2ls](https://github.com/oitsjustjose/dv2ls)
+4. 🎉 Merged PR [#21](https://github.com/oitsjustjose/dv2ls/pull/21) in [oitsjustjose/dv2ls](https://github.com/oitsjustjose/dv2ls)
+5. 🎉 Merged PR [#14](https://github.com/oitsjustjose/dv2ls/pull/14) in [oitsjustjose/dv2ls](https://github.com/oitsjustjose/dv2ls)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

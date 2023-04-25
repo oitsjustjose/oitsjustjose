@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#26](https://github.com/oitsjustjose/dv2ls/pull/26) in [oitsjustjose/dv2ls](https://github.com/oitsjustjose/dv2ls)
-2. 🎉 Merged PR [#23](https://github.com/oitsjustjose/dv2ls/pull/23) in [oitsjustjose/dv2ls](https://github.com/oitsjustjose/dv2ls)
-3. 🎉 Merged PR [#20](https://github.com/oitsjustjose/dv2ls/pull/20) in [oitsjustjose/dv2ls](https://github.com/oitsjustjose/dv2ls)
-4. 🎉 Merged PR [#21](https://github.com/oitsjustjose/dv2ls/pull/21) in [oitsjustjose/dv2ls](https://github.com/oitsjustjose/dv2ls)
-5. 🎉 Merged PR [#14](https://github.com/oitsjustjose/dv2ls/pull/14) in [oitsjustjose/dv2ls](https://github.com/oitsjustjose/dv2ls)
+1. 🗣 Commented on [#3192](https://github.com/mezz/JustEnoughItems/issues/3192) in [mezz/JustEnoughItems](https://github.com/mezz/JustEnoughItems)
+2. 🎉 Merged PR [#26](https://github.com/oitsjustjose/dv2ls/pull/26) in [oitsjustjose/dv2ls](https://github.com/oitsjustjose/dv2ls)
+3. 🎉 Merged PR [#23](https://github.com/oitsjustjose/dv2ls/pull/23) in [oitsjustjose/dv2ls](https://github.com/oitsjustjose/dv2ls)
+4. 🎉 Merged PR [#20](https://github.com/oitsjustjose/dv2ls/pull/20) in [oitsjustjose/dv2ls](https://github.com/oitsjustjose/dv2ls)
+5. 🎉 Merged PR [#21](https://github.com/oitsjustjose/dv2ls/pull/21) in [oitsjustjose/dv2ls](https://github.com/oitsjustjose/dv2ls)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

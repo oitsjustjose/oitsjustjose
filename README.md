@@ -49,9 +49,9 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#99](https://github.com/oitsjustjose/V-Tweaks/issues/99) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-2. ❗️ Closed issue [#321](https://github.com/oitsjustjose/Geolosys/issues/321) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
+2. 🔒 Closed issue [#321](https://github.com/oitsjustjose/Geolosys/issues/321) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
 3. 🗣 Commented on [#321](https://github.com/oitsjustjose/Geolosys/issues/321) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
-4. ❗️ Closed issue [#68](https://github.com/oitsjustjose/Natural-Progression/issues/68) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
+4. 🔒 Closed issue [#68](https://github.com/oitsjustjose/Natural-Progression/issues/68) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
 5. 🗣 Commented on [#68](https://github.com/oitsjustjose/Natural-Progression/issues/68) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
 <!--END_SECTION:activity-->
 

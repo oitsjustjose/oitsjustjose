@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3](https://github.com/oitsjustjose/DMSM/pull/3) in [oitsjustjose/DMSM](https://github.com/oitsjustjose/DMSM)
-2. 🗣 Commented on [#99](https://github.com/oitsjustjose/V-Tweaks/issues/99) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-3. 🔒 Closed issue [#321](https://github.com/oitsjustjose/Geolosys/issues/321) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
-4. 🗣 Commented on [#321](https://github.com/oitsjustjose/Geolosys/issues/321) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
-5. 🔒 Closed issue [#68](https://github.com/oitsjustjose/Natural-Progression/issues/68) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
+1. 🗣 Commented on [#106](https://github.com/oitsjustjose/V-Tweaks/issues/106) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+2. 🔒 Closed issue [#106](https://github.com/oitsjustjose/V-Tweaks/issues/106) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+3. 💪 Opened PR [#3](https://github.com/oitsjustjose/DMSM/pull/3) in [oitsjustjose/DMSM](https://github.com/oitsjustjose/DMSM)
+4. 🗣 Commented on [#99](https://github.com/oitsjustjose/V-Tweaks/issues/99) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+5. 🔒 Closed issue [#321](https://github.com/oitsjustjose/Geolosys/issues/321) in [oitsjustjose/Geolosys](https://github.com/oitsjustjose/Geolosys)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

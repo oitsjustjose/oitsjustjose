@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#6](https://github.com/oitsjustjose/DMSM/pull/6) in [oitsjustjose/DMSM](https://github.com/oitsjustjose/DMSM)
-2. 🔒 Closed issue [#107](https://github.com/oitsjustjose/V-Tweaks/issues/107) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-3. 🗣 Commented on [#107](https://github.com/oitsjustjose/V-Tweaks/issues/107#issuecomment-1654848772) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-4. 🔒 Closed issue [#105](https://github.com/oitsjustjose/V-Tweaks/issues/105) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-5. 🗣 Commented on [#105](https://github.com/oitsjustjose/V-Tweaks/issues/105#issuecomment-1654847877) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+1. 🗣 Commented on [#2](https://github.com/oitsjustjose/1.12.2-Public-Pack/issues/2#issuecomment-1669549583) in [oitsjustjose/1.12.2-Public-Pack](https://github.com/oitsjustjose/1.12.2-Public-Pack)
+2. 🗣 Commented on [#2](https://github.com/oitsjustjose/1.12.2-Public-Pack/issues/2#issuecomment-1669546372) in [oitsjustjose/1.12.2-Public-Pack](https://github.com/oitsjustjose/1.12.2-Public-Pack)
+3. 💪 Opened PR [#6](https://github.com/oitsjustjose/DMSM/pull/6) in [oitsjustjose/DMSM](https://github.com/oitsjustjose/DMSM)
+4. 🔒 Closed issue [#107](https://github.com/oitsjustjose/V-Tweaks/issues/107) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+5. 🗣 Commented on [#107](https://github.com/oitsjustjose/V-Tweaks/issues/107#issuecomment-1654848772) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#3](https://github.com/oitsjustjose/1.12.2-Public-Pack/issues/3) in [oitsjustjose/1.12.2-Public-Pack](https://github.com/oitsjustjose/1.12.2-Public-Pack)
-2. 🗣 Commented on [#3](https://github.com/oitsjustjose/1.12.2-Public-Pack/issues/3#issuecomment-1687210333) in [oitsjustjose/1.12.2-Public-Pack](https://github.com/oitsjustjose/1.12.2-Public-Pack)
-3. ❗ Opened issue [#8](https://github.com/bglandolt/bettercombat/issues/8) in [bglandolt/bettercombat](https://github.com/bglandolt/bettercombat)
-4. 🔒 Closed issue [#6](https://github.com/bglandolt/bettercombat/issues/6) in [bglandolt/bettercombat](https://github.com/bglandolt/bettercombat)
-5. 🗣 Commented on [#6](https://github.com/bglandolt/bettercombat/issues/6#issuecomment-1673354811) in [bglandolt/bettercombat](https://github.com/bglandolt/bettercombat)
+1. 💪 Opened PR [#7](https://github.com/oitsjustjose/DMSM/pull/7) in [oitsjustjose/DMSM](https://github.com/oitsjustjose/DMSM)
+2. 🔒 Closed issue [#3](https://github.com/oitsjustjose/1.12.2-Public-Pack/issues/3) in [oitsjustjose/1.12.2-Public-Pack](https://github.com/oitsjustjose/1.12.2-Public-Pack)
+3. 🗣 Commented on [#3](https://github.com/oitsjustjose/1.12.2-Public-Pack/issues/3#issuecomment-1687210333) in [oitsjustjose/1.12.2-Public-Pack](https://github.com/oitsjustjose/1.12.2-Public-Pack)
+4. ❗ Opened issue [#8](https://github.com/bglandolt/bettercombat/issues/8) in [bglandolt/bettercombat](https://github.com/bglandolt/bettercombat)
+5. 🔒 Closed issue [#6](https://github.com/bglandolt/bettercombat/issues/6) in [bglandolt/bettercombat](https://github.com/bglandolt/bettercombat)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

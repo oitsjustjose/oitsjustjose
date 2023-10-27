@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#8](https://github.com/oitsjustjose/DMSM/pull/8) in [oitsjustjose/DMSM](https://github.com/oitsjustjose/DMSM)
-2. ❗ Opened issue [#36](https://github.com/LunaPixelStudios/SteamPunk/issues/36) in [LunaPixelStudios/SteamPunk](https://github.com/LunaPixelStudios/SteamPunk)
-3. 🗣 Commented on [#33](https://github.com/LunaPixelStudios/SteamPunk/issues/33#issuecomment-1753272597) in [LunaPixelStudios/SteamPunk](https://github.com/LunaPixelStudios/SteamPunk)
-4. ❗ Opened issue [#33](https://github.com/LunaPixelStudios/SteamPunk/issues/33) in [LunaPixelStudios/SteamPunk](https://github.com/LunaPixelStudios/SteamPunk)
-5. 💪 Opened PR [#7](https://github.com/oitsjustjose/DMSM/pull/7) in [oitsjustjose/DMSM](https://github.com/oitsjustjose/DMSM)
+1. 💪 Opened PR [#9](https://github.com/oitsjustjose/DMSM/pull/9) in [oitsjustjose/DMSM](https://github.com/oitsjustjose/DMSM)
+2. 💪 Opened PR [#8](https://github.com/oitsjustjose/DMSM/pull/8) in [oitsjustjose/DMSM](https://github.com/oitsjustjose/DMSM)
+3. ❗ Opened issue [#36](https://github.com/LunaPixelStudios/SteamPunk/issues/36) in [LunaPixelStudios/SteamPunk](https://github.com/LunaPixelStudios/SteamPunk)
+4. 🗣 Commented on [#33](https://github.com/LunaPixelStudios/SteamPunk/issues/33#issuecomment-1753272597) in [LunaPixelStudios/SteamPunk](https://github.com/LunaPixelStudios/SteamPunk)
+5. ❗ Opened issue [#33](https://github.com/LunaPixelStudios/SteamPunk/issues/33) in [LunaPixelStudios/SteamPunk](https://github.com/LunaPixelStudios/SteamPunk)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#9](https://github.com/oitsjustjose/DMSM/pull/9) in [oitsjustjose/DMSM](https://github.com/oitsjustjose/DMSM)
-2. 💪 Opened PR [#8](https://github.com/oitsjustjose/DMSM/pull/8) in [oitsjustjose/DMSM](https://github.com/oitsjustjose/DMSM)
-3. ❗ Opened issue [#36](https://github.com/LunaPixelStudios/SteamPunk/issues/36) in [LunaPixelStudios/SteamPunk](https://github.com/LunaPixelStudios/SteamPunk)
-4. 🗣 Commented on [#33](https://github.com/LunaPixelStudios/SteamPunk/issues/33#issuecomment-1753272597) in [LunaPixelStudios/SteamPunk](https://github.com/LunaPixelStudios/SteamPunk)
-5. ❗ Opened issue [#33](https://github.com/LunaPixelStudios/SteamPunk/issues/33) in [LunaPixelStudios/SteamPunk](https://github.com/LunaPixelStudios/SteamPunk)
+1. 🔒 Closed issue [#2](https://github.com/shizotoaster/foglooksmodernnow/issues/2) in [shizotoaster/foglooksmodernnow](https://github.com/shizotoaster/foglooksmodernnow)
+2. 🗣 Commented on [#2](https://github.com/shizotoaster/foglooksmodernnow/issues/2#issuecomment-1821074011) in [shizotoaster/foglooksmodernnow](https://github.com/shizotoaster/foglooksmodernnow)
+3. ❗ Opened issue [#2](https://github.com/shizotoaster/foglooksmodernnow/issues/2) in [shizotoaster/foglooksmodernnow](https://github.com/shizotoaster/foglooksmodernnow)
+4. 💪 Opened PR [#9](https://github.com/oitsjustjose/DMSM/pull/9) in [oitsjustjose/DMSM](https://github.com/oitsjustjose/DMSM)
+5. 💪 Opened PR [#8](https://github.com/oitsjustjose/DMSM/pull/8) in [oitsjustjose/DMSM](https://github.com/oitsjustjose/DMSM)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

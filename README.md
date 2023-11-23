@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#28](https://github.com/Alexthw46/Eidolon-Repraised/issues/28) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
-2. 🔒 Closed issue [#2](https://github.com/shizotoaster/foglooksmodernnow/issues/2) in [shizotoaster/foglooksmodernnow](https://github.com/shizotoaster/foglooksmodernnow)
-3. 🗣 Commented on [#2](https://github.com/shizotoaster/foglooksmodernnow/issues/2#issuecomment-1821074011) in [shizotoaster/foglooksmodernnow](https://github.com/shizotoaster/foglooksmodernnow)
-4. ❗ Opened issue [#2](https://github.com/shizotoaster/foglooksmodernnow/issues/2) in [shizotoaster/foglooksmodernnow](https://github.com/shizotoaster/foglooksmodernnow)
-5. 💪 Opened PR [#9](https://github.com/oitsjustjose/DMSM/pull/9) in [oitsjustjose/DMSM](https://github.com/oitsjustjose/DMSM)
+1. 🗣 Commented on [#28](https://github.com/Alexthw46/Eidolon-Repraised/issues/28#issuecomment-1824728207) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
+2. 🔒 Closed issue [#28](https://github.com/Alexthw46/Eidolon-Repraised/issues/28) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
+3. 🗣 Commented on [#28](https://github.com/Alexthw46/Eidolon-Repraised/issues/28#issuecomment-1824673608) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
+4. ❗ Opened issue [#28](https://github.com/Alexthw46/Eidolon-Repraised/issues/28) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
+5. 🔒 Closed issue [#2](https://github.com/shizotoaster/foglooksmodernnow/issues/2) in [shizotoaster/foglooksmodernnow](https://github.com/shizotoaster/foglooksmodernnow)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

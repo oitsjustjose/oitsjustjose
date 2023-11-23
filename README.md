@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#2](https://github.com/shizotoaster/foglooksmodernnow/issues/2) in [shizotoaster/foglooksmodernnow](https://github.com/shizotoaster/foglooksmodernnow)
-2. 🗣 Commented on [#2](https://github.com/shizotoaster/foglooksmodernnow/issues/2#issuecomment-1821074011) in [shizotoaster/foglooksmodernnow](https://github.com/shizotoaster/foglooksmodernnow)
-3. ❗ Opened issue [#2](https://github.com/shizotoaster/foglooksmodernnow/issues/2) in [shizotoaster/foglooksmodernnow](https://github.com/shizotoaster/foglooksmodernnow)
-4. 💪 Opened PR [#9](https://github.com/oitsjustjose/DMSM/pull/9) in [oitsjustjose/DMSM](https://github.com/oitsjustjose/DMSM)
-5. 💪 Opened PR [#8](https://github.com/oitsjustjose/DMSM/pull/8) in [oitsjustjose/DMSM](https://github.com/oitsjustjose/DMSM)
+1. ❗ Opened issue [#28](https://github.com/Alexthw46/Eidolon-Repraised/issues/28) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
+2. 🔒 Closed issue [#2](https://github.com/shizotoaster/foglooksmodernnow/issues/2) in [shizotoaster/foglooksmodernnow](https://github.com/shizotoaster/foglooksmodernnow)
+3. 🗣 Commented on [#2](https://github.com/shizotoaster/foglooksmodernnow/issues/2#issuecomment-1821074011) in [shizotoaster/foglooksmodernnow](https://github.com/shizotoaster/foglooksmodernnow)
+4. ❗ Opened issue [#2](https://github.com/shizotoaster/foglooksmodernnow/issues/2) in [shizotoaster/foglooksmodernnow](https://github.com/shizotoaster/foglooksmodernnow)
+5. 💪 Opened PR [#9](https://github.com/oitsjustjose/DMSM/pull/9) in [oitsjustjose/DMSM](https://github.com/oitsjustjose/DMSM)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

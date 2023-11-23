@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#28](https://github.com/Alexthw46/Eidolon-Repraised/issues/28#issuecomment-1824728207) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
-2. 🔒 Closed issue [#28](https://github.com/Alexthw46/Eidolon-Repraised/issues/28) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
-3. 🗣 Commented on [#28](https://github.com/Alexthw46/Eidolon-Repraised/issues/28#issuecomment-1824673608) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
-4. ❗ Opened issue [#28](https://github.com/Alexthw46/Eidolon-Repraised/issues/28) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
-5. 🔒 Closed issue [#2](https://github.com/shizotoaster/foglooksmodernnow/issues/2) in [shizotoaster/foglooksmodernnow](https://github.com/shizotoaster/foglooksmodernnow)
+1. ❗ Opened issue [#29](https://github.com/Alexthw46/Eidolon-Repraised/issues/29) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
+2. 🗣 Commented on [#28](https://github.com/Alexthw46/Eidolon-Repraised/issues/28#issuecomment-1824728207) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
+3. 🔒 Closed issue [#28](https://github.com/Alexthw46/Eidolon-Repraised/issues/28) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
+4. 🗣 Commented on [#28](https://github.com/Alexthw46/Eidolon-Repraised/issues/28#issuecomment-1824673608) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
+5. ❗ Opened issue [#28](https://github.com/Alexthw46/Eidolon-Repraised/issues/28) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

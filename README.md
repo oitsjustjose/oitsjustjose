@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#109](https://github.com/oitsjustjose/V-Tweaks/issues/109#issuecomment-1826475298) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-2. 🗣 Commented on [#110](https://github.com/oitsjustjose/V-Tweaks/issues/110#issuecomment-1826475149) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-3. 🔒 Closed issue [#110](https://github.com/oitsjustjose/V-Tweaks/issues/110) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-4. ❗ Opened issue [#29](https://github.com/Alexthw46/Eidolon-Repraised/issues/29) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
-5. 🗣 Commented on [#28](https://github.com/Alexthw46/Eidolon-Repraised/issues/28#issuecomment-1824728207) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
+1. 🎉 Merged PR [#112](https://github.com/oitsjustjose/V-Tweaks/pull/112) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+2. 💪 Opened PR [#112](https://github.com/oitsjustjose/V-Tweaks/pull/112) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+3. 🎉 Merged PR [#111](https://github.com/oitsjustjose/V-Tweaks/pull/111) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+4. 💪 Opened PR [#111](https://github.com/oitsjustjose/V-Tweaks/pull/111) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+5. 🗣 Commented on [#109](https://github.com/oitsjustjose/V-Tweaks/issues/109#issuecomment-1826475298) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

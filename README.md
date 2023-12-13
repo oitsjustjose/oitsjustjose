@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#64](https://github.com/MehVahdJukaar/mapatlases-neoforge/issues/64) in [MehVahdJukaar/mapatlases-neoforge](https://github.com/MehVahdJukaar/mapatlases-neoforge)
-2. 🗣 Commented on [#109](https://github.com/oitsjustjose/V-Tweaks/issues/109#issuecomment-1827011362) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-3. 🎉 Merged PR [#112](https://github.com/oitsjustjose/V-Tweaks/pull/112) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-4. 💪 Opened PR [#112](https://github.com/oitsjustjose/V-Tweaks/pull/112) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-5. 🎉 Merged PR [#111](https://github.com/oitsjustjose/V-Tweaks/pull/111) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+1. ❗ Opened issue [#2011](https://github.com/WayofTime/BloodMagic/issues/2011) in [WayofTime/BloodMagic](https://github.com/WayofTime/BloodMagic)
+2. ❗ Opened issue [#64](https://github.com/MehVahdJukaar/mapatlases-neoforge/issues/64) in [MehVahdJukaar/mapatlases-neoforge](https://github.com/MehVahdJukaar/mapatlases-neoforge)
+3. 🗣 Commented on [#109](https://github.com/oitsjustjose/V-Tweaks/issues/109#issuecomment-1827011362) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+4. 🎉 Merged PR [#112](https://github.com/oitsjustjose/V-Tweaks/pull/112) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+5. 💪 Opened PR [#112](https://github.com/oitsjustjose/V-Tweaks/pull/112) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

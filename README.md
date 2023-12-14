@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2011](https://github.com/WayofTime/BloodMagic/issues/2011#issuecomment-1854992005) in [WayofTime/BloodMagic](https://github.com/WayofTime/BloodMagic)
-2. 🗣 Commented on [#2011](https://github.com/WayofTime/BloodMagic/issues/2011#issuecomment-1854968840) in [WayofTime/BloodMagic](https://github.com/WayofTime/BloodMagic)
-3. ❗ Opened issue [#2011](https://github.com/WayofTime/BloodMagic/issues/2011) in [WayofTime/BloodMagic](https://github.com/WayofTime/BloodMagic)
-4. ❗ Opened issue [#64](https://github.com/MehVahdJukaar/mapatlases-neoforge/issues/64) in [MehVahdJukaar/mapatlases-neoforge](https://github.com/MehVahdJukaar/mapatlases-neoforge)
-5. 🗣 Commented on [#109](https://github.com/oitsjustjose/V-Tweaks/issues/109#issuecomment-1827011362) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+1. 🗣 Commented on [#75](https://github.com/oitsjustjose/Natural-Progression/issues/75#issuecomment-1855881285) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
+2. 🔒 Closed issue [#75](https://github.com/oitsjustjose/Natural-Progression/issues/75) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
+3. 🗣 Commented on [#71](https://github.com/oitsjustjose/Natural-Progression/issues/71#issuecomment-1855880350) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
+4. 🔒 Closed issue [#71](https://github.com/oitsjustjose/Natural-Progression/issues/71) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
+5. 🗣 Commented on [#70](https://github.com/oitsjustjose/Natural-Progression/issues/70#issuecomment-1855870657) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

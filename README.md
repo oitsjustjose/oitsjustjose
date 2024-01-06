@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#73](https://github.com/MehVahdJukaar/mapatlases-neoforge/issues/73) in [MehVahdJukaar/mapatlases-neoforge](https://github.com/MehVahdJukaar/mapatlases-neoforge)
-2. 🗣 Commented on [#75](https://github.com/oitsjustjose/Natural-Progression/issues/75#issuecomment-1855881285) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
-3. 🔒 Closed issue [#75](https://github.com/oitsjustjose/Natural-Progression/issues/75) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
-4. 🗣 Commented on [#71](https://github.com/oitsjustjose/Natural-Progression/issues/71#issuecomment-1855880350) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
-5. 🔒 Closed issue [#71](https://github.com/oitsjustjose/Natural-Progression/issues/71) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
+1. ❗ Opened issue [#77](https://github.com/MehVahdJukaar/mapatlases-neoforge/issues/77) in [MehVahdJukaar/mapatlases-neoforge](https://github.com/MehVahdJukaar/mapatlases-neoforge)
+2. ❗ Opened issue [#73](https://github.com/MehVahdJukaar/mapatlases-neoforge/issues/73) in [MehVahdJukaar/mapatlases-neoforge](https://github.com/MehVahdJukaar/mapatlases-neoforge)
+3. 🗣 Commented on [#75](https://github.com/oitsjustjose/Natural-Progression/issues/75#issuecomment-1855881285) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
+4. 🔒 Closed issue [#75](https://github.com/oitsjustjose/Natural-Progression/issues/75) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
+5. 🗣 Commented on [#71](https://github.com/oitsjustjose/Natural-Progression/issues/71#issuecomment-1855880350) in [oitsjustjose/Natural-Progression](https://github.com/oitsjustjose/Natural-Progression)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

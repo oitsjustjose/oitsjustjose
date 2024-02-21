@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#115](https://github.com/oitsjustjose/V-Tweaks/issues/115#issuecomment-1935024056) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
-2. ❗ Opened issue [#9](https://github.com/Arborsm/ExtraSoundsForge/issues/9) in [Arborsm/ExtraSoundsForge](https://github.com/Arborsm/ExtraSoundsForge)
-3. 🗣 Commented on [#197](https://github.com/Ellpeck/PrettyPipes/issues/197#issuecomment-1925448703) in [Ellpeck/PrettyPipes](https://github.com/Ellpeck/PrettyPipes)
-4. 💪 Opened PR [#11](https://github.com/oitsjustjose/DMSM/pull/11) in [oitsjustjose/DMSM](https://github.com/oitsjustjose/DMSM)
-5. 💪 Opened PR [#10](https://github.com/oitsjustjose/DMSM/pull/10) in [oitsjustjose/DMSM](https://github.com/oitsjustjose/DMSM)
+1. 🗣 Commented on [#46](https://github.com/Alexthw46/Eidolon-Repraised/issues/46#issuecomment-1955767774) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
+2. 🔒 Closed issue [#46](https://github.com/Alexthw46/Eidolon-Repraised/issues/46) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
+3. ❗ Opened issue [#46](https://github.com/Alexthw46/Eidolon-Repraised/issues/46) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
+4. 🗣 Commented on [#115](https://github.com/oitsjustjose/V-Tweaks/issues/115#issuecomment-1935024056) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+5. ❗ Opened issue [#9](https://github.com/Arborsm/ExtraSoundsForge/issues/9) in [Arborsm/ExtraSoundsForge](https://github.com/Arborsm/ExtraSoundsForge)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#47](https://github.com/Alexthw46/Eidolon-Repraised/issues/47) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
-2. 🗣 Commented on [#46](https://github.com/Alexthw46/Eidolon-Repraised/issues/46#issuecomment-1955767774) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
-3. 🔒 Closed issue [#46](https://github.com/Alexthw46/Eidolon-Repraised/issues/46) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
-4. ❗ Opened issue [#46](https://github.com/Alexthw46/Eidolon-Repraised/issues/46) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
-5. 🗣 Commented on [#115](https://github.com/oitsjustjose/V-Tweaks/issues/115#issuecomment-1935024056) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+1. ❗ Opened issue [#14](https://github.com/MehVahdJukaar/amendments/issues/14) in [MehVahdJukaar/amendments](https://github.com/MehVahdJukaar/amendments)
+2. ❗ Opened issue [#47](https://github.com/Alexthw46/Eidolon-Repraised/issues/47) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
+3. 🗣 Commented on [#46](https://github.com/Alexthw46/Eidolon-Repraised/issues/46#issuecomment-1955767774) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
+4. 🔒 Closed issue [#46](https://github.com/Alexthw46/Eidolon-Repraised/issues/46) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
+5. ❗ Opened issue [#46](https://github.com/Alexthw46/Eidolon-Repraised/issues/46) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

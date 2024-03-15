@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#166](https://github.com/RazorDevs/Deep-Aether/issues/166) in [RazorDevs/Deep-Aether](https://github.com/RazorDevs/Deep-Aether)
-2. ❗ Opened issue [#14](https://github.com/MehVahdJukaar/amendments/issues/14) in [MehVahdJukaar/amendments](https://github.com/MehVahdJukaar/amendments)
-3. ❗ Opened issue [#47](https://github.com/Alexthw46/Eidolon-Repraised/issues/47) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
-4. 🗣 Commented on [#46](https://github.com/Alexthw46/Eidolon-Repraised/issues/46#issuecomment-1955767774) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
-5. 🔒 Closed issue [#46](https://github.com/Alexthw46/Eidolon-Repraised/issues/46) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
+1. ❗ Opened issue [#34](https://github.com/FinnSetchell/MoogsVoyagerStructures/issues/34) in [FinnSetchell/MoogsVoyagerStructures](https://github.com/FinnSetchell/MoogsVoyagerStructures)
+2. ❗ Opened issue [#166](https://github.com/RazorDevs/Deep-Aether/issues/166) in [RazorDevs/Deep-Aether](https://github.com/RazorDevs/Deep-Aether)
+3. ❗ Opened issue [#14](https://github.com/MehVahdJukaar/amendments/issues/14) in [MehVahdJukaar/amendments](https://github.com/MehVahdJukaar/amendments)
+4. ❗ Opened issue [#47](https://github.com/Alexthw46/Eidolon-Repraised/issues/47) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
+5. 🗣 Commented on [#46](https://github.com/Alexthw46/Eidolon-Repraised/issues/46#issuecomment-1955767774) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

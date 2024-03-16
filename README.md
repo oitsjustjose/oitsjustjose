@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1](https://github.com/falling-colud/Durability-Overhaul/issues/1#issuecomment-2000840097) in [falling-colud/Durability-Overhaul](https://github.com/falling-colud/Durability-Overhaul)
-2. ❗ Opened issue [#34](https://github.com/FinnSetchell/MoogsVoyagerStructures/issues/34) in [FinnSetchell/MoogsVoyagerStructures](https://github.com/FinnSetchell/MoogsVoyagerStructures)
-3. ❗ Opened issue [#166](https://github.com/RazorDevs/Deep-Aether/issues/166) in [RazorDevs/Deep-Aether](https://github.com/RazorDevs/Deep-Aether)
-4. ❗ Opened issue [#14](https://github.com/MehVahdJukaar/amendments/issues/14) in [MehVahdJukaar/amendments](https://github.com/MehVahdJukaar/amendments)
-5. ❗ Opened issue [#47](https://github.com/Alexthw46/Eidolon-Repraised/issues/47) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
+1. 💪 Opened PR [#56](https://github.com/Alexthw46/Eidolon-Repraised/pull/56) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
+2. 🗣 Commented on [#1](https://github.com/falling-colud/Durability-Overhaul/issues/1#issuecomment-2000840097) in [falling-colud/Durability-Overhaul](https://github.com/falling-colud/Durability-Overhaul)
+3. ❗ Opened issue [#34](https://github.com/FinnSetchell/MoogsVoyagerStructures/issues/34) in [FinnSetchell/MoogsVoyagerStructures](https://github.com/FinnSetchell/MoogsVoyagerStructures)
+4. ❗ Opened issue [#166](https://github.com/RazorDevs/Deep-Aether/issues/166) in [RazorDevs/Deep-Aether](https://github.com/RazorDevs/Deep-Aether)
+5. ❗ Opened issue [#14](https://github.com/MehVahdJukaar/amendments/issues/14) in [MehVahdJukaar/amendments](https://github.com/MehVahdJukaar/amendments)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

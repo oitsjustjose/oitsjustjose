@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#56](https://github.com/Alexthw46/Eidolon-Repraised/pull/56#issuecomment-2016502826) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
-2. 💪 Opened PR [#12](https://github.com/oitsjustjose/DMSM/pull/12) in [oitsjustjose/DMSM](https://github.com/oitsjustjose/DMSM)
-3. 🗣 Commented on [#56](https://github.com/Alexthw46/Eidolon-Repraised/pull/56#issuecomment-2002492473) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
-4. 💪 Opened PR [#56](https://github.com/Alexthw46/Eidolon-Repraised/pull/56) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
-5. 🗣 Commented on [#1](https://github.com/falling-colud/Durability-Overhaul/issues/1#issuecomment-2000840097) in [falling-colud/Durability-Overhaul](https://github.com/falling-colud/Durability-Overhaul)
+1. 🗣 Commented on [#60](https://github.com/Alexthw46/Eidolon-Repraised/issues/60#issuecomment-2028496469) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
+2. 🗣 Commented on [#56](https://github.com/Alexthw46/Eidolon-Repraised/pull/56#issuecomment-2016502826) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
+3. 💪 Opened PR [#12](https://github.com/oitsjustjose/DMSM/pull/12) in [oitsjustjose/DMSM](https://github.com/oitsjustjose/DMSM)
+4. 🗣 Commented on [#56](https://github.com/Alexthw46/Eidolon-Repraised/pull/56#issuecomment-2002492473) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
+5. 💪 Opened PR [#56](https://github.com/Alexthw46/Eidolon-Repraised/pull/56) in [Alexthw46/Eidolon-Repraised](https://github.com/Alexthw46/Eidolon-Repraised)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

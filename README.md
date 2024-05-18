@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [1.20.1-1.2.1 Porting LIb Fix](https://github.com/oitsjustjose/RootsClassic/releases/tag/1.20.1-1.2.1-PortingLibFix) in [oitsjustjose/RootsClassic](https://github.com/oitsjustjose/RootsClassic)
-2. 🗣 Commented on [#11](https://github.com/ZestyBlaze/RootsClassic/issues/11#issuecomment-2116470646) in [ZestyBlaze/RootsClassic](https://github.com/ZestyBlaze/RootsClassic)
-3. 💪 Opened PR [#12](https://github.com/ZestyBlaze/RootsClassic/pull/12) in [ZestyBlaze/RootsClassic](https://github.com/ZestyBlaze/RootsClassic)
-4. 🗣 Commented on [#11](https://github.com/ZestyBlaze/RootsClassic/issues/11#issuecomment-2115389583) in [ZestyBlaze/RootsClassic](https://github.com/ZestyBlaze/RootsClassic)
-5. 💪 Opened PR [#13](https://github.com/oitsjustjose/DMSM/pull/13) in [oitsjustjose/DMSM](https://github.com/oitsjustjose/DMSM)
+1. 🗣 Commented on [#12](https://github.com/ZestyBlaze/RootsClassic/pull/12#issuecomment-2118541901) in [ZestyBlaze/RootsClassic](https://github.com/ZestyBlaze/RootsClassic)
+2. 🚀 Published release [1.20.1-1.2.1 Porting LIb Fix](https://github.com/oitsjustjose/RootsClassic/releases/tag/1.20.1-1.2.1-PortingLibFix) in [oitsjustjose/RootsClassic](https://github.com/oitsjustjose/RootsClassic)
+3. 🗣 Commented on [#11](https://github.com/ZestyBlaze/RootsClassic/issues/11#issuecomment-2116470646) in [ZestyBlaze/RootsClassic](https://github.com/ZestyBlaze/RootsClassic)
+4. 💪 Opened PR [#12](https://github.com/ZestyBlaze/RootsClassic/pull/12) in [ZestyBlaze/RootsClassic](https://github.com/ZestyBlaze/RootsClassic)
+5. 🗣 Commented on [#11](https://github.com/ZestyBlaze/RootsClassic/issues/11#issuecomment-2115389583) in [ZestyBlaze/RootsClassic](https://github.com/ZestyBlaze/RootsClassic)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

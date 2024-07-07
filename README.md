@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#3](https://github.com/oitsjustjose/Harmonious-Magineering/issues/3) in [oitsjustjose/Harmonious-Magineering](https://github.com/oitsjustjose/Harmonious-Magineering)
-2. ❗ Opened issue [#2](https://github.com/oitsjustjose/Harmonious-Magineering/issues/2) in [oitsjustjose/Harmonious-Magineering](https://github.com/oitsjustjose/Harmonious-Magineering)
-3. ❗ Opened issue [#1](https://github.com/oitsjustjose/Harmonious-Magineering/issues/1) in [oitsjustjose/Harmonious-Magineering](https://github.com/oitsjustjose/Harmonious-Magineering)
-4. 🗣 Commented on [#413](https://github.com/LootrMinecraft/Lootr/issues/413#issuecomment-2198196844) in [LootrMinecraft/Lootr](https://github.com/LootrMinecraft/Lootr)
-5. 🗣 Commented on [#413](https://github.com/LootrMinecraft/Lootr/issues/413#issuecomment-2198196633) in [LootrMinecraft/Lootr](https://github.com/LootrMinecraft/Lootr)
+1. 💪 Opened PR [#17](https://github.com/oitsjustjose/DMSM/pull/17) in [oitsjustjose/DMSM](https://github.com/oitsjustjose/DMSM)
+2. ❗ Opened issue [#3](https://github.com/oitsjustjose/Harmonious-Magineering/issues/3) in [oitsjustjose/Harmonious-Magineering](https://github.com/oitsjustjose/Harmonious-Magineering)
+3. ❗ Opened issue [#2](https://github.com/oitsjustjose/Harmonious-Magineering/issues/2) in [oitsjustjose/Harmonious-Magineering](https://github.com/oitsjustjose/Harmonious-Magineering)
+4. ❗ Opened issue [#1](https://github.com/oitsjustjose/Harmonious-Magineering/issues/1) in [oitsjustjose/Harmonious-Magineering](https://github.com/oitsjustjose/Harmonious-Magineering)
+5. 🗣 Commented on [#413](https://github.com/LootrMinecraft/Lootr/issues/413#issuecomment-2198196844) in [LootrMinecraft/Lootr](https://github.com/LootrMinecraft/Lootr)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

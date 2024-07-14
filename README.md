@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [1.0.0](https://github.com/oitsjustjose/ForgeServ-StreamDeck-Plugin/releases/tag/1.0.0) in [oitsjustjose/ForgeServ-StreamDeck-Plugin](https://github.com/oitsjustjose/ForgeServ-StreamDeck-Plugin)
-2. 💪 Opened PR [#18](https://github.com/oitsjustjose/DMSM/pull/18) in [oitsjustjose/DMSM](https://github.com/oitsjustjose/DMSM)
-3. 💪 Opened PR [#17](https://github.com/oitsjustjose/DMSM/pull/17) in [oitsjustjose/DMSM](https://github.com/oitsjustjose/DMSM)
-4. ❗ Opened issue [#3](https://github.com/oitsjustjose/Harmonious-Magineering/issues/3) in [oitsjustjose/Harmonious-Magineering](https://github.com/oitsjustjose/Harmonious-Magineering)
-5. ❗ Opened issue [#2](https://github.com/oitsjustjose/Harmonious-Magineering/issues/2) in [oitsjustjose/Harmonious-Magineering](https://github.com/oitsjustjose/Harmonious-Magineering)
+1. 💪 Opened PR [#1537](https://github.com/AgriCraft/AgriCraft/pull/1537) in [AgriCraft/AgriCraft](https://github.com/AgriCraft/AgriCraft)
+2. 🚀 Published release [1.0.0](https://github.com/oitsjustjose/ForgeServ-StreamDeck-Plugin/releases/tag/1.0.0) in [oitsjustjose/ForgeServ-StreamDeck-Plugin](https://github.com/oitsjustjose/ForgeServ-StreamDeck-Plugin)
+3. 💪 Opened PR [#18](https://github.com/oitsjustjose/DMSM/pull/18) in [oitsjustjose/DMSM](https://github.com/oitsjustjose/DMSM)
+4. 💪 Opened PR [#17](https://github.com/oitsjustjose/DMSM/pull/17) in [oitsjustjose/DMSM](https://github.com/oitsjustjose/DMSM)
+5. ❗ Opened issue [#3](https://github.com/oitsjustjose/Harmonious-Magineering/issues/3) in [oitsjustjose/Harmonious-Magineering](https://github.com/oitsjustjose/Harmonious-Magineering)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1537](https://github.com/AgriCraft/AgriCraft/pull/1537) in [AgriCraft/AgriCraft](https://github.com/AgriCraft/AgriCraft)
-2. 🚀 Published release [1.0.0](https://github.com/oitsjustjose/ForgeServ-StreamDeck-Plugin/releases/tag/1.0.0) in [oitsjustjose/ForgeServ-StreamDeck-Plugin](https://github.com/oitsjustjose/ForgeServ-StreamDeck-Plugin)
-3. 💪 Opened PR [#18](https://github.com/oitsjustjose/DMSM/pull/18) in [oitsjustjose/DMSM](https://github.com/oitsjustjose/DMSM)
-4. 💪 Opened PR [#17](https://github.com/oitsjustjose/DMSM/pull/17) in [oitsjustjose/DMSM](https://github.com/oitsjustjose/DMSM)
-5. ❗ Opened issue [#3](https://github.com/oitsjustjose/Harmonious-Magineering/issues/3) in [oitsjustjose/Harmonious-Magineering](https://github.com/oitsjustjose/Harmonious-Magineering)
+1. 🗣 Commented on [#118](https://github.com/oitsjustjose/V-Tweaks/issues/118#issuecomment-2248388815) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+2. 🔒 Closed issue [#118](https://github.com/oitsjustjose/V-Tweaks/issues/118) in [oitsjustjose/V-Tweaks](https://github.com/oitsjustjose/V-Tweaks)
+3. 💪 Opened PR [#1537](https://github.com/AgriCraft/AgriCraft/pull/1537) in [AgriCraft/AgriCraft](https://github.com/AgriCraft/AgriCraft)
+4. 🚀 Published release [1.0.0](https://github.com/oitsjustjose/ForgeServ-StreamDeck-Plugin/releases/tag/1.0.0) in [oitsjustjose/ForgeServ-StreamDeck-Plugin](https://github.com/oitsjustjose/ForgeServ-StreamDeck-Plugin)
+5. 💪 Opened PR [#18](https://github.com/oitsjustjose/DMSM/pull/18) in [oitsjustjose/DMSM](https://github.com/oitsjustjose/DMSM)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats

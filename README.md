@@ -1,48 +1,17 @@
-### Hi, my name is Jose (a.k.a. [oitsjustjose](https://oitsjustjose.com))
+# Hi, my name is Jose!
 
-<br />
-
-[![Website](https://img.shields.io/badge/oitsjustjose.com-green?style=for-the-badge)](https://oitsjustjose.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/oitsjustjose?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Foitsjustjose&screen_name=oitsjustjose)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://oitsjustjo.se/u/linkedin)
+### I have a more cleaned up and presentable portfolio [here](https://oitsjustjose.com) if you're interested!
 
 ---
 
-## I'm a Developer, Gamer and Mechanical Keyboard Enthusiast ⌨️
+## I'm a Full Stack Developer, Game Dev & Software Enthusiast!
 
-- I'm a data modeler & SQL Developer with [Ernst & Young](https://www.ey.com/)
-- I write [Minecraft Mods](https://www.curseforge.com/members/oitsjustjose/projects) in my free-time
-- I love working in sysadmin using CRON, `systemd`, Docker and Kubernetes 🐳
-- I love writing frontend design using CSS/SCSS, React and Vanilla JS
-
-### Languages and Tools
-
-<center>
-<div>
-<img align="center" alt="JavaScript" width="32px" src="https://simpleicons.org/icons/javascript.svg" />
-<img align="center" alt="TypeScript" width="32px" src="https://simpleicons.org/icons/typescript.svg" />
-•
-<img align="center" alt="React" width="32px" src="https://simpleicons.org/icons/react.svg" />
-<img align="center" alt="HTML5" width="32px" src="https://simpleicons.org/icons/html5.svg" />
-<img align="center" alt="CSS3" width="32px" src="https://simpleicons.org/icons/css3.svg" />
-<img align="center" alt="Sass" width="32px" src="https://simpleicons.org/icons/sass.svg" />
-•
-<img align="center" alt="Gulp" width="32px" src="https://simpleicons.org/icons/gulp.svg" />
-<img align="center" alt="Node.js" width="32px" src="https://simpleicons.org/icons/node-dot-js.svg" />
-•
-<img align="center" alt="PostgreSQL" width="32px" src="https://simpleicons.org/icons/postgresql.svg" />
-<img align="center" alt="SQL" width="32px" height="32px" src="https://simpleicons.org/icons/microsoftsqlserver.svg" />
-<img align="center" alt="MongoDB" width="32px" height="32px" src="https://simpleicons.org/icons/mongodb.svg" />
-•
-<img align="center" alt="Docker" width="32px" src="https://simpleicons.org/icons/docker.svg" />
-<img align="center" alt="Kubernetes" width="32px" src="https://simpleicons.org/icons/kubernetes.svg" />
-•
-<img align="center" alt="Java" width="32px" src="https://simpleicons.org/icons/java.svg" />
-<img align="center" alt="Gradle" width="32px" src="https://simpleicons.org/icons/gradle.svg" />
-</div>
-</center>
-
-<br />
+- I've been all over the stack - I've adapted for web, game and standalone application frontends, SQL and NoSQL Databases, backends using DotNet, ExpressJS, Django (and even Flask) and all of my code is written to be as self-documenting and robust as possible.
+- I love every part of the stack, from deployments & automation to responsive front-ends and theming.
+- Programming Languages don't matter to me - none of them are scary or prohibitive, it's just about what tool is best for the problem!
+- I write and maintain Minecraft Mods in my free-time (on [CurseForge](https://www.curseforge.com/members/oitsjustjose/projects) and [Modrinth](https://modrinth.com/user/oitsjustjose)).
+- I regularly create little scripts to make every day life a bit easier -- you can find most of them on my GitHub to learn off of.
+- In my spare time I've been practicing drums, trying to get better at them slowly but surely (it's been a long trek)!
 
 ### Recent GitHub Activity
 
@@ -57,4 +26,4 @@
 
 ### GitHub Stats
 
-<img align="center" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=oitsjustjose&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
+<img width="100%" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=oitsjustjose&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
